@@ -8,15 +8,15 @@ A Flutter project for class Database and Information System.
 
 #### 登陆界面&注册界面
 
-<img src="\figure\登陆界面.png" width='29%'></img> <img src='figure/注册界面1.png' width='30%'></img> <img src='figure/注册界面2.png' width='30%'></img>
+<img src="figure/登陆界面.png" width='29%'></img> <img src='figure/注册界面1.png' width='30%'></img> <img src='figure/注册界面2.png' width='30%'></img>
 
 #### 主界面
 
-<img src="\figure\主界面1.png" width='30%'></img> <img src="\figure\主界面2.png" width='29.5%'></img>
+<img src="figure/主界面1.png" width='30%'></img> <img src="figure/主界面2.png" width='29.5%'></img>
 
 #### 商品发布页&商品界面
 
-<img src="\figure\商品发布页1.png" width='30%'></img> <img src="\figure\商品发布页2.png" width='30%'></img> <img src="\figure\商品页面.png" width='30%'></img>
+<img src="figure/商品发布页1.png" width='30%'></img> <img src="figure/商品发布页2.png" width='30%'></img> <img src="figure/商品页面.png" width='30%'></img>
 
 #### 搜索界面
 
